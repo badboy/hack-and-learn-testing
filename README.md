@@ -12,6 +12,7 @@ Ziel soll es sein, gemeinsam Tests für Probleme zu erarbeiten und anschließend
 * [Hangman](hangman/index.md)
 * [String Tokenizer](tokenize-string/index.md)
 * [Echte Teiler](proper-divisor/index.md)
+* [Mailbox](mailbox/index.md)
 
 ### Mehr
 
@@ -21,4 +22,3 @@ Ziel soll es sein, gemeinsam Tests für Probleme zu erarbeiten und anschließend
 * [Simple moving average](http://rosettacode.org/wiki/Averages/Simple_moving_average)
 * [Box the compass](http://rosettacode.org/wiki/Box_the_compass)
 * [Execute HQ9+](http://rosettacode.org/wiki/Execute_HQ9%2B)
-* [Mailbox](https://github.com/skade/mailbox)
