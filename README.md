@@ -11,3 +11,4 @@ Ziel soll es sein, gemeinsam Tests für Probleme zu erarbeiten und anschließend
 * [Simple Computer](simple-computer/index.md)
 * [Hangman](hangman/index.md)
 * [String Tokenizer](tokenize-string/index.md)
+* [Echte Teiler](proper-divisor/index.md)
