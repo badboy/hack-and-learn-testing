@@ -15,7 +15,3 @@ Features Server
 
 * Hat ein Kommando zum Lesen der letzten Nachricht: READ
 * Andere Eingaben werden als Nachricht gespeichert
-
-Aufgaben
-
-* Tests für die einzelnen Features schreiben

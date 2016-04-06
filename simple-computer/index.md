@@ -21,12 +21,7 @@ Beispielcode:
 
 Nach Ausführung enthält Register a den Wert 2.
 
-Aufgabe:
-
-* Schreibe Tests, die die einzelnen Instruktionen testen
-* Schreibe Tests, die ein ganzes Programm testen.
-* Schreibe Tests, die das große Programm (siehe Anhang ) testen. Lösung: (1, 184)
-* Implementiere den Computer
+Implementiere den Computer.
 
 
 ---
